@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833691308611",
+    "project_id": "playz-7ba44",
+    "storage_bucket": "playz-7ba44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833691308611:android:df97bce1102565aefc3af6",
+        "android_client_info": {
+          "package_name": "com.example.playz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGq6S8SZwaJVuO_7DRYgktKsuXsu0M4eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
